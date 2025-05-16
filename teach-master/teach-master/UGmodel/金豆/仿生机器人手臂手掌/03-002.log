@@ -1,0 +1,1290 @@
+﻿STEP to UG
+! INFO-     NX STEP AP203 - V2406.1700
+! INFO-      
+! INFO-     Start of Translation: 17-MAR-2025  9:25:51 PM
+! INFO-      
+! STATUS-   Converting Part: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\03-002.STEP
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      STEP AP203
+! SUMMARY-  Imp_Level        1
+! SUMMARY-  File_Name        03-002.STEP
+! SUMMARY-  Date             2025-03-17T13:24:31
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      SwSTEP 2.0
+! SUMMARY-  Orig_System      SolidWorks 2022
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        config_control_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:   2979
+! SUMMARY-  application_context ........................................:    108
+! SUMMARY-  approval ...................................................:    268
+! SUMMARY-  approval_date_time .........................................:    268
+! SUMMARY-  approval_person_organization ...............................:    268
+! SUMMARY-  approval_role ..............................................:    268
+! SUMMARY-  approval_status ............................................:    268
+! SUMMARY-  axis2_placement_3d .........................................:   3527
+! SUMMARY-  b_spline_curve_with_knots ..................................:   3182
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:    607
+! SUMMARY-  b_spline_surface_with_knots ................................:    508
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:    806
+! SUMMARY-  calendar_date ..............................................:    268
+! SUMMARY-  cartesian_point ............................................: 201072
+! SUMMARY-  circle .....................................................:   1744
+! SUMMARY-  closed_shell ...............................................:     47
+! SUMMARY-  conical_surface ............................................:    176
+! SUMMARY-  context_dependent_shape_representation .....................:    106
+! SUMMARY-  coordinated_universal_time_offset ..........................:    268
+! SUMMARY-  cylindrical_surface ........................................:    893
+! SUMMARY-  date_and_time ..............................................:    268
+! SUMMARY-  direction ..................................................:   9385
+! SUMMARY-  edge_curve .................................................:   7864
+! SUMMARY-  edge_loop ..................................................:   3288
+! SUMMARY-  face_bound .................................................:    309
+! SUMMARY-  face_outer_bound ...........................................:   2979
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:     54
+! SUMMARY-  item_defined_transformation ................................:    106
+! SUMMARY-  length_unit_and_si_unit ....................................:     54
+! SUMMARY-  line .......................................................:   2331
+! SUMMARY-  local_time .................................................:    268
+! SUMMARY-  manifold_solid_brep ........................................:     46
+! SUMMARY-  next_assembly_usage_occurrence .............................:    106
+! SUMMARY-  open_shell .................................................:      3
+! SUMMARY-  organization ...............................................:    107
+! SUMMARY-  oriented_edge ..............................................:  15722
+! SUMMARY-  person .....................................................:    107
+! SUMMARY-  person_and_organization ....................................:    268
+! SUMMARY-  plane ......................................................:    596
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:     54
+! SUMMARY-  product ....................................................:     54
+! SUMMARY-  product_context ............................................:     54
+! SUMMARY-  product_definition .........................................:     54
+! SUMMARY-  product_definition_context .................................:     54
+! SUMMARY-  product_definition_formation_with_specified_source .........:     54
+! SUMMARY-  product_definition_shape ...................................:    160
+! SUMMARY-  product_related_product_category ...........................:     54
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:    106
+! SUMMARY-  shape_representation .......................................:     54
+! SUMMARY-  shell_based_surface_model ..................................:      1
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:     54
+! SUMMARY-  uncertainty_measure_with_unit ..............................:     54
+! SUMMARY-  vector .....................................................:   2331
+! SUMMARY-  vertex_point ...............................................:   5043
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                         269673
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 17-MAR-2025 9:25:52 PM
+! STATUS-    
+! INFO-     CV0305 The entities referenced by a context_dependant_shape_rep are
+! INFO-       not coded as to STEP Part 43 requirements.  The references to the
+! INFO-       component and assembly pieces is out of order.  We will attempt
+! INFO-       to correct this with the given data.  This problem should be
+! INFO-       reported to the translator vendor whose product generated this
+! INFO-       STEP file.  If we are unable to rectify this problem the
+! INFO-       components may be positioned incorrectly.
+! INFO-      
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:04 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-004
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:04 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-019
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:04 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\socket head cap screw_is
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:04 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-032
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:04 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-021
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:04 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-039_Metric - LH Helical gear 0.4M 11T 45HA 20PA 3FW ---11N75H50L0.8N
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:04 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-016
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:04 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-017
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:05 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-015
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:05 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-029
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:05 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-007
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:05 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-014
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:05 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-013
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:05 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-031
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:05 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-008
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:05 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-49_AFBMA 20.1 - 18-5 - 10,SI,NC,10_68
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:05 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-034
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:05 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-012
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:05 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-002
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:05 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-042_AFBMA 20.1 - 27-4 - Full,SI,NC,Full_68
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:05 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-011-02
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:05 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-041
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:05 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-036
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:05 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-028
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:05 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-040_Metric - RH Helical gear 0.4M 19T 45HA 20PA 3FW ---19N75H50L0.8N
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:06 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-006
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:06 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\001-024
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:06 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-043_IS 7483 - M1.6 x 3 - Z -- 3N
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:06 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-025
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:06 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-018
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:06 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-020
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              4
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:06 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\FDM0620-2R-_-30
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:06 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-038_Metric - Straight bevel pinion 0.4M12PT 40GT 20PA 2FW ---12O5H6MD1N
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:06 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-026
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:06 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-037
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:06 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-009
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:06 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-030
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:06 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-027
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:06 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\FDM0620-2R-_-30.2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:07 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-001-02
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:07 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-47
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:07 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-035
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:07 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-50_IS 7483 - M2 x 10 - Z -- 10N
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:07 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-033
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:07 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\01-022
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:07 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\02-007
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              4
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:07 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\02-004
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              5
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:07 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\02-001
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     7
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              7
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:07 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\02-008
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    12
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             12
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:07 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\02-005
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    13
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             13
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:07 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\02-003
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              5
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:07 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\02-002
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              5
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:07 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\02-006
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    23
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             23
+! STATUS-   Creating the UG part (Phase 3 of 3): 17-MAR-2025  9:26:07 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\1\03-002_step.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    32
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             32
+! INFO-      
+! INFO-     Total number of solids input for this translation       :        46
+! INFO-      
+! INFO-     Number of solids created without body validation faults :        46
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 17-MAR-2025  9:26:07 PM
+! INFO-      
+STEP to UG
+! INFO-     NX STEP AP203 - V2406.1700
+! INFO-      
+! INFO-     Start of Translation: 18-MAR-2025  12:38:09 PM
+! INFO-      
+! STATUS-   Converting Part: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\03-002.STEP
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      STEP AP203
+! SUMMARY-  Imp_Level        1
+! SUMMARY-  File_Name        03-002.STEP
+! SUMMARY-  Date             2025-03-17T13:24:31
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      SwSTEP 2.0
+! SUMMARY-  Orig_System      SolidWorks 2022
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        config_control_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:   2979
+! SUMMARY-  application_context ........................................:    108
+! SUMMARY-  approval ...................................................:    268
+! SUMMARY-  approval_date_time .........................................:    268
+! SUMMARY-  approval_person_organization ...............................:    268
+! SUMMARY-  approval_role ..............................................:    268
+! SUMMARY-  approval_status ............................................:    268
+! SUMMARY-  axis2_placement_3d .........................................:   3527
+! SUMMARY-  b_spline_curve_with_knots ..................................:   3182
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:    607
+! SUMMARY-  b_spline_surface_with_knots ................................:    508
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:    806
+! SUMMARY-  calendar_date ..............................................:    268
+! SUMMARY-  cartesian_point ............................................: 201072
+! SUMMARY-  circle .....................................................:   1744
+! SUMMARY-  closed_shell ...............................................:     47
+! SUMMARY-  conical_surface ............................................:    176
+! SUMMARY-  context_dependent_shape_representation .....................:    106
+! SUMMARY-  coordinated_universal_time_offset ..........................:    268
+! SUMMARY-  cylindrical_surface ........................................:    893
+! SUMMARY-  date_and_time ..............................................:    268
+! SUMMARY-  direction ..................................................:   9385
+! SUMMARY-  edge_curve .................................................:   7864
+! SUMMARY-  edge_loop ..................................................:   3288
+! SUMMARY-  face_bound .................................................:    309
+! SUMMARY-  face_outer_bound ...........................................:   2979
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:     54
+! SUMMARY-  item_defined_transformation ................................:    106
+! SUMMARY-  length_unit_and_si_unit ....................................:     54
+! SUMMARY-  line .......................................................:   2331
+! SUMMARY-  local_time .................................................:    268
+! SUMMARY-  manifold_solid_brep ........................................:     46
+! SUMMARY-  next_assembly_usage_occurrence .............................:    106
+! SUMMARY-  open_shell .................................................:      3
+! SUMMARY-  organization ...............................................:    107
+! SUMMARY-  oriented_edge ..............................................:  15722
+! SUMMARY-  person .....................................................:    107
+! SUMMARY-  person_and_organization ....................................:    268
+! SUMMARY-  plane ......................................................:    596
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:     54
+! SUMMARY-  product ....................................................:     54
+! SUMMARY-  product_context ............................................:     54
+! SUMMARY-  product_definition .........................................:     54
+! SUMMARY-  product_definition_context .................................:     54
+! SUMMARY-  product_definition_formation_with_specified_source .........:     54
+! SUMMARY-  product_definition_shape ...................................:    160
+! SUMMARY-  product_related_product_category ...........................:     54
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:    106
+! SUMMARY-  shape_representation .......................................:     54
+! SUMMARY-  shell_based_surface_model ..................................:      1
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:     54
+! SUMMARY-  uncertainty_measure_with_unit ..............................:     54
+! SUMMARY-  vector .....................................................:   2331
+! SUMMARY-  vertex_point ...............................................:   5043
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                         269673
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 18-MAR-2025 12:38:10 PM
+! STATUS-    
+! INFO-     CV0305 The entities referenced by a context_dependant_shape_rep are
+! INFO-       not coded as to STEP Part 43 requirements.  The references to the
+! INFO-       component and assembly pieces is out of order.  We will attempt
+! INFO-       to correct this with the given data.  This problem should be
+! INFO-       reported to the translator vendor whose product generated this
+! INFO-       STEP file.  If we are unable to rectify this problem the
+! INFO-       components may be positioned incorrectly.
+! INFO-      
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:21 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-00472164
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:22 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-019248556
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:22 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\socket head cap screw_is43992
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:22 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-032163987
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:22 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-02142390
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:22 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-039_Metric - LH Helical gear 0.4M 11T 45HA 20PA 3FW ---11N75H50L0.8N241295
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:22 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-01614217
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:22 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-017202625
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:22 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-015250176
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:22 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-02952860
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-00770564
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-01461720
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-01379415
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-031118081
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-008155119
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-49_AFBMA 20.1 - 18-5 - 10,SI,NC,10_68232410
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-034260619
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-012200994
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-002220340
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-042_AFBMA 20.1 - 27-4 - Full,SI,NC,Full_6833528
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-011-02211482
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-041146299
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-036165586
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-02860087
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-040_Metric - RH Helical gear 0.4M 19T 45HA 20PA 3FW ---19N75H50L0.8N116460
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-00631925
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\001-0243707
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-043_IS 7483 - M1.6 x 3 - Z -- 3N88264
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-025100390
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:23 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-018109227
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:24 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-02098759
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              4
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:24 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\FDM0620-2R-_-30147885
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:24 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-038_Metric - Straight bevel pinion 0.4M12PT 40GT 20PA 2FW ---12O5H6MD1N128566
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:24 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-026119709
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:24 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-037204249
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:24 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-00989888
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:24 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-03024651
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:24 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-0275334
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:24 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\FDM0620-2R-_-30.2184933
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:24 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-001-0223067
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:24 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-47172836
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:25 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-035137428
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:25 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-50_IS 7483 - M2 x 10 - Z -- 10N238061
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:25 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-033192152
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:25 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\01-022183291
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:25 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\02-007156722
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              4
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:25 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\02-004176053
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              5
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:25 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\02-00151235
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     7
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              7
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:25 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\02-00815827
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    12
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             12
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:25 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\02-005135804
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    13
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             13
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:25 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\02-003193771
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              5
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:25 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\02-002174434
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              5
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:25 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\02-00681035
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    23
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             23
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-MAR-2025  12:38:25 PM
+! INFO-     Filing Part ..: E:\model\teach\teach\UGmodel\金豆\仿生机器人手臂手掌\03-002.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    32
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             32
+! INFO-      
+! INFO-     Total number of solids input for this translation       :        46
+! INFO-      
+! INFO-     Number of solids created without body validation faults :        46
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 18-MAR-2025  12:38:25 PM
+! INFO-      
